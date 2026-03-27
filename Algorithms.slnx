@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Algorithms/Algorithms.csproj" />
+  <Project Path="AlgorithmsTests/AlgorithmsTests.csproj" Id="46903d18-9cf5-4429-ae69-3ad8295b9de3" />
+</Solution>

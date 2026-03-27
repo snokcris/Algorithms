@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Trees\" />
+    <Folder Include="DynamicProgramming\" />
+    <Folder Include="Cache\" />
+    <Folder Include="Strings\" />
+    <Folder Include="Arrays\" />
+  </ItemGroup>
+
 </Project>

@@ -31,4 +31,12 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Trees\" />
+    <Folder Include="DynamicProgramming\" />
+    <Folder Include="Cache\" />
+    <Folder Include="Strings\" />
+    <Folder Include="Arrays\" />
+  </ItemGroup>
+
 </Project>
